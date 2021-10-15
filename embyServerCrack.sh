@@ -1,8 +1,8 @@
 #!/bin/sh
 
 VER=1.0
-USERNAME="qcgzxw"
-PROJECT="https://github.com/qcgzxw/emby-server-crack"
+USERNAME="zjwang1234"
+PROJECT="https://github.com/zjwang1234/emby-server-crack"
 PROJECT_NAME="emby-server-crack"
 BRANCH="main"
 GITHUB_CDN="https://cdn.jsdelivr.net/gh"
